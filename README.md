@@ -1,0 +1,1 @@
+Due to large size of dataset it can't be uploaded u can find it on the given link provided Link:DATASET LINK (for local machine): https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
